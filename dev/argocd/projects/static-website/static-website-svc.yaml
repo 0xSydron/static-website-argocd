@@ -5,7 +5,6 @@ metadata:
   labels:
     run: static-webpage
   name: static-webpage
-  namespace: default
   resourceVersion: "16923"
   uid: d3f52a0d-bfd6-439f-891f-b30e79c77238
 spec:
